@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+    text-align: center;
+    align-items: center;
+    color: white;
+
+}
+
+div {
+
+    margin-top: 10%;
+    padding: 50px;
+    border: 2px solid rgb(236, 39, 39);
+    background-color: rgb(236, 39, 39);
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    box-shadow: 10px 10px black;
+}
+
+p {
+    padding-top: 20px;
+}
+
+input {
+    border-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    padding-left: 3px;
+    box-shadow: 5px 5px rgb(0, 0, 0);
+
+}
+
+h1 {
+    text-shadow: 5px 5px black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    width: 150px;
+
+}
+
+form {
+    text-align: center;
+    align-items: center;
+}

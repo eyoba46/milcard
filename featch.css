@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: brown;
+}
+main{
+	 color: white;
+    text-align: center;
+    align-items: center;
+}
+table{
+	 margin: 3rem  auto;
+     text-align: center;
+    align-items: center;
+}
+button {
+	padding: 0;
+    margin: 0;
+	width:100px;
+	height:100px;
+}
+td{
+	width:100px;
+	height:100px;
+}
+a{
+	background-color: white;
+	margin-left:10px;
+    text-align: left;
+    position: fixed;
+    top: 60px;
+    text-decoration: none;
+   padding:5px;
+   border:1px solid white;
+    border-radius: 20px;
+  
+}
